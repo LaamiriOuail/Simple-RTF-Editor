@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\RTF\RTF\bin\Debug\RTF.exe.config
+C:\Users\hp\Desktop\RTF\RTF\bin\Debug\RTF.exe
+C:\Users\hp\Desktop\RTF\RTF\bin\Debug\RTF.pdb
+C:\Users\hp\Desktop\RTF\RTF\obj\Debug\RTF.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\RTF\RTF\obj\Debug\RTF.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\RTF\RTF\obj\Debug\RTF.Form1.resources
+C:\Users\hp\Desktop\RTF\RTF\obj\Debug\RTF.Properties.Resources.resources
+C:\Users\hp\Desktop\RTF\RTF\obj\Debug\RTF.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\RTF\RTF\obj\Debug\RTF.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\RTF\RTF\obj\Debug\RTF.exe
+C:\Users\hp\Desktop\RTF\RTF\obj\Debug\RTF.pdb
+C:\Users\hp\Desktop\RTF\RTF\obj\Debug\RTF.DlgCustom.resources
